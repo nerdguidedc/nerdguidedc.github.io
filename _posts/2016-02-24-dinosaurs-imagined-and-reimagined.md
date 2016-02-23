@@ -4,7 +4,7 @@ layout: post
 #event information
 title:  "Dinosaurs Imagined and Reimagined"
 cover: "https://mateh.id.au/wp-content/uploads/2014/07/amazon-aws-logo.jpg"
-date:   2016-02-23
+date:   2016-02-24
 start_time: "18:30"
 end_time: "20:00"
 
