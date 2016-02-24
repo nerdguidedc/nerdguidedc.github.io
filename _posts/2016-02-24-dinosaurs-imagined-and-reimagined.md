@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Dinosaurs Imagined and Reimagined"
-cover: "https://upload.wikimedia.org/wikipedia/commons/1/13/Lost_World_1925_Still_01.jpg"
+cover: "images/Lost_World_1925_Still_01.jpg"
 date:   2016-02-24
 start_time: "18:30"
 end_time: "20:00"
