@@ -7,8 +7,15 @@ cover: "/images/Lost_World_1925_Still_01.jpg"
 date:   "2016-02-24 18:30"
 start_time: "18:30"
 end_time: "20:00"
-
-#event organiser details
+location:
+  name: "Natural History Museum"
+  address:
+    - "Ground floor"
+    - "10th Street and Constitution Ave NW"
+  city: Washington
+  state: DC
+  zip: 20013
+tags: [ 'natural history museum' ]
 
 ---
 
@@ -19,6 +26,7 @@ Whether campy or surreal, scary or comical, these specially selected
 film clips reveal how movie dinosaurs have inspired audiences
 (including scientists) for the better part of a century. 
 
-This event is at the National Museum of Natural History. The event
-is free but [advance registration](https://www.facebook.com/events/1290117051013702/) is required.
+The event is free but
+[advance registration](https://www.facebook.com/events/1290117051013702/)
+is required.
 

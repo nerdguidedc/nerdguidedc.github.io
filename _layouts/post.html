@@ -13,6 +13,24 @@ layout: default
     {% endif %}
     <h2 class="post-date"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</h2>
     <h3 class="post-time">From {{ page.start_time}} to {{page.end_time }}</h3>
+    {% if page.location %}
+    <p>
+    <div itemscope itemtype="http://schema.org/Organization">
+      <span itemprop="name">{{ page.location.name }}</span>
+      <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <span itemprop="streetAddress">
+          {% for addressline in page.location.address %}
+            <div>{{ addressline }}</div>
+          {% endfor %}
+        </span>
+        <div>
+          <span itemprop="addressLocality">{{ page.location.city }}</span>,
+          <span itemprop="addressRegion">{{ page.location.state }}</span>
+          <span itemprop="postalCode">{{ page.location.zip }}</span>
+        </div>
+      </div>
+    </div>
+    {% endif %}
   </header>
 
   {% if organiser.photo %}
@@ -22,11 +40,5 @@ layout: default
     <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
-
-    {% if organiser.email %}
-        <div>
-            <a href='mailto:{{organiser.email}}?subject=Register interest for {{page.title}} on {{ page.date | date: "%B %-d, %Y" }}&body=Hi! Im interested in your event. Can I come please?' class="button button-primary">Register Interest</a>
-        </div>
-    {% endif %}
 
 </article>
