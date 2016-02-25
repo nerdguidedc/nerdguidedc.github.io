@@ -16,11 +16,12 @@ location:
   zip: 20005
 tags: [ 'carnegie institute', 'capital science evening lectures' ]
 excerpt: >
-  At this month’s Nerd Nite DC, experts at the Natural History Museum
-  are taking a step back in deep time to uncover chapters
-  in Earth’s 4.6 billion-year-old story that might shed some
-  light on where our chapter might lead. So get deeply nostalgic
-  Natural History style at Nerd Nite this month. It’s going to be epoch!
+  Standing strong and silent, plants are all around us, both shaping
+  our world and responding to it.  Plants can live for hundreds,
+  if not thousands of years, continuously renewing themselves
+  through active stem cells, yet also avoiding cancer. What
+  lessons might we learn about our own biological potential
+  from a closer look at their life strategies?
 
 ---
 
