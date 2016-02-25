@@ -16,6 +16,9 @@ location:
   state: DC
   zip: 20013
 tags: [ 'natural history museum' ]
+excerpt: >
+  Walk through time with Matthew Carrano, Curator of Dinosauria, as he
+  explores the history and special effects of dinosaurs in popular film.
 
 ---
 

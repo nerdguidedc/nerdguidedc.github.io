@@ -15,6 +15,12 @@ location:
   state: DC
   zip: 20001
 tags: [ 'nerd nite dc', '21+ event' ]
+excerpt: >
+  At this month’s Nerd Nite DC, experts at the Natural History Museum
+  are taking a step back in deep time to uncover chapters
+  in Earth’s 4.6 billion-year-old story that might shed some
+  light on where our chapter might lead. So get deeply nostalgic
+  Natural History style at Nerd Nite this month. It’s going to be epoch!
 
 ---
 
