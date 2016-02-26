@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "USA Science and Engineering Festival"
-cover: "/images/usa-science-engineering-icons.png"
+cover: "/images/usa-science-engineering-icons.jpg"
 date:   "2016-04-16 10:00"
 start_time: "April 16"
 end_time: "April 17"
