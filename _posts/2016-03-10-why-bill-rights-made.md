@@ -5,6 +5,7 @@ layout: post
 title:  "Why the Bill of Rights Was Made"
 cover: "/images/Bill_of_Rights_Pg1of1_AC.jpg"
 date:   "2016-03-10 19:00"
+creation: "2016-02-25"
 start_time: "19:00"
 end_time: "21:00"
 location:

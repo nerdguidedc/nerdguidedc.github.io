@@ -5,6 +5,7 @@ layout: post
 title:  "Carnegie Public Lecture: Plant Stem Cells"
 cover: "/images/1024px-03-10_Mnium2.jpg"
 date:   "2016-03-02 18:45"
+creation: "2016-02-25"
 start_time: "18:45"
 end_time: "20:00"
 location:

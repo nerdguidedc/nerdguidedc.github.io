@@ -5,6 +5,7 @@ layout: post
 title:  "Building Stars, Planets, and The Ingredients for Life in Space"
 cover: "/images/Planets-everywhere-artist-impression.jpg"
 date:   "2016-03-31 20:00"
+creation: "2016-02-25"
 start_time: "20:00"
 end_time: "22:00"
 location:

@@ -5,6 +5,7 @@ layout: post
 title:  "Nerd Nite March"
 cover: "/images/BLW_Trilobite.jpg"
 date:   "2016-03-12 18:00"
+creation: "2016-02-25"
 start_time: "18:00"
 end_time: "21:00"
 location:

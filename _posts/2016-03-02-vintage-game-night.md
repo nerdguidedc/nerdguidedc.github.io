@@ -5,6 +5,7 @@ layout: post
 title:  "Vintage Game Night"
 cover: "/images/863px-Woodrow_Wilson_House.JPG"
 date:   "2016-03-02 17:30"
+creation: "2016-02-25"
 start_time: "17:30"
 end_time: "20:00"
 location:
