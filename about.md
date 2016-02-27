@@ -16,5 +16,6 @@ you can [follow us](//twitter.com/drmajormccheese) on twitter,
 
 The site is undergoing a major redesign in March 2016.
 The Nerd Guide is built using the
-[Jekyll](//jekyllrb.com/) site generator and the
-[Evento](//github.com/boyney123/evento) theme.
+[Jekyll](//jekyllrb.com/) site generator, the
+[Evento](//github.com/boyney123/evento) theme, and the
+[FormHack](http://formhack.io) form theme.
