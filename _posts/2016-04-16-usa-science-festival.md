@@ -15,7 +15,7 @@ location:
   city: Washington
   state: DC
   zip: 20001
-tags: [ 'convention' ]
+tags: [ 'festival', 'family event' ]
 excerpt: >
   The 4th USA Science & Engineering Festival, the largest and only
   national science festival, features nationwide contests 
@@ -43,5 +43,5 @@ performances.
 
 The Expo is free of charge and no tickets are required. "They Might
 Be Giants", Wil Wheaton, and lots of actual scientists and engineers
-will be presenting on stage at the convention. There will be over
+will be presenting on stage at the festival. There will be over
 200 exhibits to see.
