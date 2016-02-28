@@ -15,7 +15,7 @@ location:
   city: Washington
   state: DC
   zip: 20008
-tags: [ 'woodrow wilson house' ]
+tags: [ 'Woodrow Wilson House' ]
 excerpt: >
   Join us on the first Wednesday of every month, from 5:30 - 8pm, 
   for our Vintage Game Night; the perfect mid-week happy hour for

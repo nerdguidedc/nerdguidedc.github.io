@@ -17,7 +17,7 @@ location:
   city: Washington
   state: DC
   zip: 20408
-tags: [ 'national archives' ]
+tags: [ 'National Archives' ]
 excerpt: >
   The National Archives presents a panel discussing the story behind
   the Bill of Rights, the Ratification of the Constitution, and the 

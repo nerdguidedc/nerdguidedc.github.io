@@ -15,7 +15,7 @@ location:
   city: Washington
   state: DC
   zip: 20007
-tags: [ 'festival', 'national mall', 'family event' ]
+tags: [ 'Festivals', 'National Mall', 'Family Events' ]
 excerpt: >
   The National Cherry Blossom Festival is kicking off kite season
   and celebrating 50 years of kite flying on the National Mall.

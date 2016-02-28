@@ -15,7 +15,7 @@ location:
   city: Washington
   state: DC
   zip: 20001
-tags: [ 'festival', 'family event' ]
+tags: [ 'Festivals', 'Family Events' ]
 excerpt: >
   The 4th USA Science & Engineering Festival, the largest and only
   national science festival, features nationwide contests 

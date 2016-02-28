@@ -15,7 +15,7 @@ location:
   city: Washington
   state: DC
   zip: 20005
-tags: [ 'carnegie institute', 'capital science evening lectures' ]
+tags: [ 'Carnegie Institute', 'Capital Science Evening Lectures' ]
 excerpt: >
   Standing strong and silent, plants are all around us, both shaping
   our world and responding to it.  Plants can live for hundreds,
