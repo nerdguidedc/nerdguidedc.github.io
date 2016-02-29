@@ -5,7 +5,7 @@ layout: post
 title:  "Environmental Film Festival"
 cover: "/images/eff-logo_frog_rgb.jpg"
 date:   "2016-03-15"
-creation: "2016-02-27"
+creation: "2016-02-29"
 start_time: "March 15"
 end_time: "March 26"
 location:

@@ -5,7 +5,7 @@ layout: post
 title:  "Blossom Kite Festival"
 cover: "/images/Sky_full_of_kites_Cervia_2007.jpg"
 date:   "2016-04-02"
-creation: "2016-02-27"
+creation: "2016-02-29"
 start_time: "10:00"
 end_time: "16:30"
 location:
