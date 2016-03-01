@@ -12,8 +12,8 @@ attribution:
   license_url: "https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en"
 date:   "2016-03-12 18:00"
 creation: "2016-02-25"
-start_time: "18:00"
-end_time: "21:00"
+start_time: "6:00 PM"
+end_time: "9:00 PM"
 location:
   name: "DC9"
   address:

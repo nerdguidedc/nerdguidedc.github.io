@@ -12,8 +12,8 @@ attribution:
   license_url: "https://creativecommons.org/licenses/by/3.0/deed.en"
 date:   "2016-03-17 14:00"
 creation: "2016-03-02"
-start_time: "14:00"
-end_time: "16:00"
+start_time: "2:00 PM"
+end_time: "4:00 PM"
 location:
   name: "Library of Congress"
   address:

@@ -12,8 +12,8 @@ attribution:
   license_url: "https://creativecommons.org/licenses/by/2.0/deed.en"
 date:   "2016-03-04 20:00"
 creation: "2016-02-29"
-start_time: "20:00"
-end_time: "22:30"
+start_time: "8:00 PM"
+end_time: "10:30 PM"
 location:
   name: "Philosophical Society of Washington"
   address:

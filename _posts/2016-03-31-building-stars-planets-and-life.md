@@ -12,8 +12,8 @@ attribution:
   license_url: "https://creativecommons.org/licenses/by/4.0/deed.en"
 date:   "2016-03-31 20:00"
 creation: "2016-02-25"
-start_time: "20:00"
-end_time: "22:00"
+start_time: "8:00 PM"
+end_time: "10:00 PM"
 location:
   name: "Udvar-Hazy Center"
   address:

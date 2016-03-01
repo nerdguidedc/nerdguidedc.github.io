@@ -12,8 +12,8 @@ attribution:
   license_url: "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
 date:   "2016-03-02 18:45"
 creation: "2016-02-25"
-start_time: "18:45"
-end_time: "20:00"
+start_time: "6:45 PM"
+end_time: "8:00 PM"
 location:
   name: "Carnegie Institute for Science"
   address:

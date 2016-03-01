@@ -12,8 +12,8 @@ attribution:
   license_url: "http://fairuse.stanford.edu/overview/public-domain/welcome"
 date:   "2016-02-24 18:30"
 creation: "2016-02-22"
-start_time: "18:30"
-end_time: "20:00"
+start_time: "6:30 PM"
+end_time: "8:00 PM"
 location:
   name: "Natural History Museum"
   address:

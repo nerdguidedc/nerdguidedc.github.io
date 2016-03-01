@@ -12,8 +12,8 @@ attribution:
   license_url: "https://creativecommons.org/licenses/by-sa/2.0/deed.en"
 date:   "2016-04-02"
 creation: "2016-02-29"
-start_time: "10:00"
-end_time: "16:30"
+start_time: "10:00 AM"
+end_time: "4:30 PM"
 location:
   name: "Washington Monument"
   address:

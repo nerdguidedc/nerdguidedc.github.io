@@ -12,8 +12,8 @@ attribution:
   license_url: "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
 date:   "2016-03-02 17:30"
 creation: "2016-02-25"
-start_time: "17:30"
-end_time: "20:00"
+start_time: "5:30 PM"
+end_time: "8:00 PM"
 location:
   name: "Woodrow Wilson House"
   address:

@@ -12,8 +12,8 @@ attribution:
   license_url: "http://fairuse.stanford.edu/overview/public-domain/welcome"
 date:   "2016-03-10 19:00"
 creation: "2016-02-25"
-start_time: "19:00"
-end_time: "21:00"
+start_time: "7:00 PM"
+end_time: "9:00 PM"
 location:
   name: "National Archives"
   address:
