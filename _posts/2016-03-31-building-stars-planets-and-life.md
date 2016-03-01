@@ -4,6 +4,12 @@ layout: post
 #event information
 title:  "Building Stars, Planets, and The Ingredients for Life in Space"
 cover: "/images/Planets-everywhere-artist-impression.jpg"
+attribution:
+  name: "Planets everywhere"
+  author: "European Southern Observatory/M. Kornmesser"
+  license: "CC BY 4.0"
+  name_url: "https://commons.wikimedia.org/wiki/File:Planets_everywhere_(artist%E2%80%99s_impression).jpg"
+  license_url: "https://creativecommons.org/licenses/by/4.0/deed.en"
 date:   "2016-03-31 20:00"
 creation: "2016-02-25"
 start_time: "20:00"

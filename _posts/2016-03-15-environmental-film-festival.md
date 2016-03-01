@@ -4,6 +4,11 @@ layout: post
 #event information
 title:  "Environmental Film Festival"
 cover: "/images/eff-logo_frog_rgb.jpg"
+attribution:
+  name: "DCEFF logo"
+  author: "Environmental Film Festival"
+  name_url: "http://dceff.org/wp-content/themes/eff/images/logo.svg"
+  author_url: "http://dceff.org"
 date:   "2016-03-15"
 creation: "2016-02-29"
 start_time: "March 15"

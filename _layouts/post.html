@@ -37,8 +37,22 @@ layout: default
     <div class="author" style="background-image:url({{organiser.photo}});"></div>
   {% endif %}
 
-    <div class="post-content" itemprop="articleBody">
+  <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+  <small>
+  Image attribution:
+  <a href="{{ page.attribution.name_url }}">"{{ page.attribution.name }}"</a>
+  by
+  {% if page.attribution.author_url %}
+  <a href="{{ page.attribution.author_url }}">{{ page.attribution.author }}</a>
+  {% else %}
+  {{ page.attribution.author }}
+  {% endif %}
+  {% if page.attribution.license %}
+  licensed under
+  <a href="{{ page.attribution.license_url }}">{{ page.attribution.license }}</a>
+  {% endif %}
+  </small>
 
 </article>

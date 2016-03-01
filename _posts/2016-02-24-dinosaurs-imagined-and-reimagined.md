@@ -4,6 +4,12 @@ layout: post
 #event information
 title:  "Dinosaurs Imagined and Reimagined"
 cover: "/images/Lost_World_1925_Still_01.jpg"
+attribution:
+  name: "Scene from the 1925 feature film 'The Lost World'"
+  author: "Harry O. Hoyt"
+  license: "the public domain"
+  name_url: "https://commons.wikimedia.org/wiki/File:Lost_World_1925_Still_01.jpg"
+  license_url: "http://fairuse.stanford.edu/overview/public-domain/welcome"
 date:   "2016-02-24 18:30"
 creation: "2016-02-22"
 start_time: "18:30"

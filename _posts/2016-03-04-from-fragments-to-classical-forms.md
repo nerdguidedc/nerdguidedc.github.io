@@ -4,6 +4,12 @@ layout: post
 #event information
 title:  "From Fragments to Classical Forms"
 cover: "/images/3470824675_0b50088b0c_b.jpg"
+attribution:
+  name: "Bronze statue of a youth"
+  author: "Tilemahos Efthimiadis"
+  license: "CC BY 2.0"
+  name_url: "https://commons.wikimedia.org/wiki/File:Bronze_statue_of_a_youth,_about_340-330_BC._(3470824675).jpg"
+  license_url: "https://creativecommons.org/licenses/by/2.0/deed.en"
 date:   "2016-03-04 20:00"
 creation: "2016-02-29"
 start_time: "20:00"

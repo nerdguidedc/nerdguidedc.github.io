@@ -4,6 +4,12 @@ layout: post
 #event information
 title:  "Carnegie Public Lecture: Plant Stem Cells"
 cover: "/images/1024px-03-10_Mnium2.jpg"
+attribution:
+  name: "Leaf tissue with chloroplasts and cell wall"
+  author: "Thomas Geier"
+  license: "CC BY-SA 3.0"
+  name_url: "https://commons.wikimedia.org/wiki/File:03-10_Mnium2.jpg"
+  license_url: "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
 date:   "2016-03-02 18:45"
 creation: "2016-02-25"
 start_time: "18:45"

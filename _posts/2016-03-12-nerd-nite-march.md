@@ -4,6 +4,12 @@ layout: post
 #event information
 title:  "Nerd Nite March"
 cover: "/images/BLW_Trilobite.jpg"
+attribution:
+  name: "Trilobite"
+  author: "Mike Peel"
+  license: "CC BY-SA 2.0 UK"
+  name_url: "https://commons.wikimedia.org/wiki/File:BLW_Trilobite_(Paradoxides_sp.).jpg"
+  license_url: "https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en"
 date:   "2016-03-12 18:00"
 creation: "2016-02-25"
 start_time: "18:00"

@@ -4,6 +4,10 @@ layout: post
 #event information
 title:  "USA Science and Engineering Festival"
 cover: "/images/usa-science-engineering-icons.jpg"
+attribution:
+  name: "Science And Engineering festival logo"
+  author: "USA Science and Engineering Festival"
+  name_url: "http://www.usasciencefestival.org"
 date:   "2016-04-16 10:00"
 creation: "2016-02-25"
 start_time: "April 16"

@@ -4,6 +4,12 @@ layout: post
 #event information
 title:  "Why the Bill of Rights Was Made"
 cover: "/images/Bill_of_Rights_Pg1of1_AC.jpg"
+attribution:
+  name: "The Bill of Rights"
+  author: "National Archives and Records Administration"
+  license: "the public domain"
+  name_url: "https://en.wikipedia.org/wiki/File:Bill_of_Rights_Pg1of1_AC.jpg"
+  license_url: "http://fairuse.stanford.edu/overview/public-domain/welcome"
 date:   "2016-03-10 19:00"
 creation: "2016-02-25"
 start_time: "19:00"

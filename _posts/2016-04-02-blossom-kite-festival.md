@@ -4,6 +4,12 @@ layout: post
 #event information
 title:  "Blossom Kite Festival"
 cover: "/images/Sky_full_of_kites_Cervia_2007.jpg"
+attribution:
+  name: "Kites in Cervia"
+  author: "achille.ballabeni"
+  license: "CC BY-SA 2.0"
+  name_url: "https://commons.wikimedia.org/wiki/File:Sky_full_of_kites,_Cervia_2007.jpg"
+  license_url: "https://creativecommons.org/licenses/by-sa/2.0/deed.en"
 date:   "2016-04-02"
 creation: "2016-02-29"
 start_time: "10:00"

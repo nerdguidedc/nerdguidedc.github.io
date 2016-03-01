@@ -4,6 +4,12 @@ layout: post
 #event information
 title:  "Vintage Game Night"
 cover: "/images/863px-Woodrow_Wilson_House.JPG"
+attribution:
+  name: "Woodrow Wilson House"
+  author: "AgnosticPreachersKid"
+  license: "CC BY-SA 3.0"
+  name_url: "https://commons.wikimedia.org/wiki/File:Woodrow_Wilson_House.JPG"
+  license_url: "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
 date:   "2016-03-02 17:30"
 creation: "2016-02-25"
 start_time: "17:30"
