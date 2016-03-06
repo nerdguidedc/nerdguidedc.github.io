@@ -18,7 +18,7 @@ location:
   address:
   city: Washington
   state: DC
-tags: [ 'Film Festivals', 'Festivals' ]
+tags: [ 'Film Festivals' ]
 excerpt: >
   Each March in Washington, DC is the largest environmental film 
   festival in the United States, presenting more than 100 films 
