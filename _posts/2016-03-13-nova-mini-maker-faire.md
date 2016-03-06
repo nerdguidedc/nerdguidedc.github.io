@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "NoVa Mini Maker Faire"
-cover: "/images/1024px-Maker_Faire_2008_San_Mateo_25.JPG"
+cover: "/images/1024px-Maker_Faire_2008_San_Mateo_25.jpg"
 attribution:
   name: "Maker Faire 2008 San Mateo"
   author: "ShakataGaNai"

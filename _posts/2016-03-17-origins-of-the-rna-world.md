@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Origins of the RNA World"
-cover: "/images/1024px-StromatolitheAustralie25.jpeg"
+cover: "/images/1024px-StromatolitheAustralie25.jpg"
 attribution:
   name: "Stromatolites"
   author: "C. Eeckhout"

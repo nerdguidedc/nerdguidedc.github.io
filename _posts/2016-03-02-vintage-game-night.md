@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "Vintage Game Night"
-cover: "/images/863px-Woodrow_Wilson_House.JPG"
+cover: "/images/863px-Woodrow_Wilson_House.jpg"
 attribution:
   name: "Woodrow Wilson House"
   author: "AgnosticPreachersKid"
