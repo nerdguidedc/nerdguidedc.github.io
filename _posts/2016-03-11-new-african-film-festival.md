@@ -11,7 +11,7 @@ attribution:
   name_url: "https://commons.wikimedia.org/wiki/File:Africa_satellite_plane.jpg"
   license_url: "http://fairuse.stanford.edu/overview/public-domain/welcome"
 date:   "2016-03-11"
-creation: "2016-03-06"
+creation: "2016-03-07"
 start_time: "March 11"
 end_time: "March 18"
 location:
