@@ -10,9 +10,9 @@ This site is devoted towards science, technology, and
 intellectual activities and events in the Washington DC area.
 Special events are continuously updated from the homepage.
 To stay informed of the latest news on the Nerd Guide DC
-you can [follow us](//twitter.com/drmajormccheese) on twitter,
-[subscribe](/feed.xml) to our rss feed, or
-[sign up](http://eepurl.com/bRLrNP) for our mailing list.
+you can follow us on [twitter](//twitter.com/drmajormccheese),
+subscribe to our [rss feed](/feed.xml), or
+sign up for our [mailing list](http://eepurl.com/bRLrNP).
 
 The site is undergoing a major redesign in March 2016.
 The Nerd Guide is built using the
