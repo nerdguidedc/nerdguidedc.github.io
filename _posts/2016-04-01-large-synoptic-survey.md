@@ -22,7 +22,7 @@ location:
   city: Washington
   state: DC
   zip: 20008
-tags: [ 'Philosophical Society of Washington' ]
+tags: [ 'Philosophical Society of Washington', 'Lectures' ]
 excerpt: >
   This lecture will discuss the scientific roots of the Large Synoptic
   Survey Telescope, its support, optical and detector design, supporting

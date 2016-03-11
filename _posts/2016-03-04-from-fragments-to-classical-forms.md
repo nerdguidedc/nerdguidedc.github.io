@@ -22,7 +22,7 @@ location:
   city: Washington
   state: DC
   zip: 20008
-tags: [ 'Philosophical Society of Washington' ]
+tags: [ 'Philosophical Society of Washington', 'Lectures' ]
 excerpt: >
   The exhibition Power and Pathos: Bronze Sculpture of the Hellenistic
   World will be on view in the West Building of the National Gallery

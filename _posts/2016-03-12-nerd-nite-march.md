@@ -21,7 +21,7 @@ location:
   city: Washington
   state: DC
   zip: 20001
-tags: [ 'Nerd Nite DC', 'Natural History Museum', '21+ Events' ]
+tags: [ 'Nerd Nite DC', 'Natural History Museum', '21+ Events', 'Lectures' ]
 excerpt: >
   At this month’s Nerd Nite DC, experts at the Natural History Museum
   are taking a step back in deep time to uncover chapters
