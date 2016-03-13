@@ -29,3 +29,4 @@ future: true
 
 permalink: /event/:title.html
 
+timezone: "America/New_York"
