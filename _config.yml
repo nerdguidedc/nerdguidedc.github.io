@@ -12,7 +12,10 @@ title: Nerd Guide DC
 event_label: Events
 
 description: > # this means to ignore newlines until "baseurl:"
-  This site is devoted towards science, technology, and intellectual activities and events in the Washington DC area.
+  Nerd Guide DC is devoted towards science, technology, and
+  intellectual activities and events in the Washington DC area.
+  Whether you're interested in science, technology, engineering,
+  and/or mathematics, we've got you covered.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nerdguidedc.com" # the base hostname & protocol for your site
