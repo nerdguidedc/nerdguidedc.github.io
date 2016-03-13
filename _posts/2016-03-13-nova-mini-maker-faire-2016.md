@@ -10,7 +10,7 @@ attribution:
   license: "CC BY-SA 3.0"
   name_url: "https://commons.wikimedia.org/wiki/File:Maker_Faire_2008_San_Mateo_25.JPG"
   license_url: "https://creativecommons.org/licenses/by-sa/3.0"
-date:   "2016-03-13 11:00"
+date:   "2016-03-13 17:00 -0400"
 creation: "2016-03-04"
 start_time: "11:00 AM"
 end_time: "5:00 PM"

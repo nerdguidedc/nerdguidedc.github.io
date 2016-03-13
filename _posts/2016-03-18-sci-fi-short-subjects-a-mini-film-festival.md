@@ -10,7 +10,7 @@ attribution:
   license: "the public domain"
   name_url: "https://commons.wikimedia.org/wiki/File:Science_fiction_franske_institut.jpg"
   license_url: "http://fairuse.stanford.edu/overview/public-domain/welcome"
-date:   "2016-03-18 19:00 -0400"
+date:   "2016-03-18 21:00 -0400"
 creation: "2016-03-11"
 start_time: "7:00 PM"
 end_time: "9:00 PM"

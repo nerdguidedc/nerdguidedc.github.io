@@ -10,7 +10,7 @@ attribution:
   license: "CC BY 3.0"
   name_url: "https://commons.wikimedia.org/wiki/File:StromatolitheAustralie25.jpeg"
   license_url: "https://creativecommons.org/licenses/by/3.0/deed.en"
-date:   "2016-03-17 14:00"
+date:   "2016-03-17 16:00 -0400"
 creation: "2016-03-02"
 start_time: "2:00 PM"
 end_time: "4:00 PM"

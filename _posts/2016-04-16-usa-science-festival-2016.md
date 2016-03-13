@@ -8,7 +8,7 @@ attribution:
   name: "Science And Engineering festival logo"
   author: "USA Science and Engineering Festival"
   name_url: "http://www.usasciencefestival.org"
-date:   "2016-04-16 10:00"
+date:   "2016-04-16 23:59 -0400"
 creation: "2016-02-25"
 start_time: "April 16"
 end_time: "April 17"

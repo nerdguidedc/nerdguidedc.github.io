@@ -10,7 +10,7 @@ attribution:
   license: "CC BY 2.0"
   name_url: "https://commons.wikimedia.org/wiki/File:Hello_Dolly.jpg"
   license_url: "https://creativecommons.org/licenses/by/2.0/deed.en"
-date:   "2016-03-18 20:00"
+date:   "2016-03-18 22:00 -0400"
 creation: "2016-03-08"
 start_time: "8:00 PM"
 end_time: "10:30 PM"
