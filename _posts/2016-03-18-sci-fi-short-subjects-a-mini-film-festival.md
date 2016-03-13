@@ -10,8 +10,8 @@ attribution:
   license: "the public domain"
   name_url: "https://commons.wikimedia.org/wiki/File:Science_fiction_franske_institut.jpg"
   license_url: "http://fairuse.stanford.edu/overview/public-domain/welcome"
-date:   "2016-03-18 19:00 -0400"
-endDate:   "2016-03-19 21:00 -0400"
+date:   "2016-03-18 19:00"
+endDate:   "2016-03-19 21:00"
 creation: "2016-03-11"
 location:
   name: "David M. Brown Planetarium"

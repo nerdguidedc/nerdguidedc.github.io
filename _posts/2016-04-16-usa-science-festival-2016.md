@@ -8,8 +8,8 @@ attribution:
   name: "Science And Engineering festival logo"
   author: "USA Science and Engineering Festival"
   name_url: "http://www.usasciencefestival.org"
-date:   "2016-04-16 00:00 -0400"
-endDate:   "2016-04-17 23:59 -0400"
+date:   "2016-04-16 00:00"
+endDate:   "2016-04-17 23:59"
 creation: "2016-02-25"
 location:
   name: "Washington Convention Center"

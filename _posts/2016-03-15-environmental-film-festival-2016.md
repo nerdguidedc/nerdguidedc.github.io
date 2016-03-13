@@ -9,8 +9,8 @@ attribution:
   author: "Environmental Film Festival"
   name_url: "http://dceff.org/wp-content/themes/eff/images/logo.svg"
   author_url: "http://dceff.org"
-date:   "2016-03-15 00:00 -0400"
-endDate: "2016-03-26 23:59 -0400"
+date:   "2016-03-15 00:00"
+endDate: "2016-03-26 23:59"
 creation: "2016-02-29"
 location:
   name: "Various Locations"
