@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "2016 New African Film Festival"
+title:  "New African Film Festival"
 cover: "/images/973px-Africa_satellite_plane.jpg"
 attribution:
   name: "Composed satellite photograph of Africa"
