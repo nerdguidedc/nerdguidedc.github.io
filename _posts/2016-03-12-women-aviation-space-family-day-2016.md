@@ -22,7 +22,7 @@ location:
   city: "Washington"
   state: DC
   zip: 20560
-tags: [ 'Udvar-Hazy Center', 'Family Events' ]
+tags: [ 'Air and Space Museum', 'Udvar-Hazy Center', 'Family Events' ]
 excerpt: >
   Join us for a family day that celebrates the accomplishments of women
   in aviation and space exploration. From the days of the earliest
