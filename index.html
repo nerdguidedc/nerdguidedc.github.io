@@ -16,8 +16,8 @@ cover: '/images/wedding-robots-banner.jpg'
       {% for post in site.posts reversed %}
 
         {% assign endDate = post.endDate | date: '%s' %}
-        {% assign startDay = post.date | date: '%j' %}
-        {% assign dayDelta = post.endDate | date: '%j' | minus: startDay %}
+        {% assign startYMD = post.date | date: '%b %-d, %Y' %}
+        {% assign endYMD = post.endDate | date: '%b %-d, %Y' %}
 
         {% if endDate >= currentDate %}
 
@@ -27,7 +27,7 @@ cover: '/images/wedding-robots-banner.jpg'
             {% else %}
             <div class="event-sqaure" style="background-image:url(/images/wedding-robots-banner.jpg);">
             {% endif %}
-              <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}{%if dayDelta > 0 %} - {{ post.endDate | date: "%b %-d, %Y" }}{% endif %}</span></h2>
+              <h2>{{ post.title }} <span>{{ startYMD }}{%if startYMD != endYMD %} - {{ endYMD }}{% endif %}</span></h2>
                <div class='event-square-overlay'></div>
             </div>
 
@@ -43,8 +43,8 @@ cover: '/images/wedding-robots-banner.jpg'
       {% for post in site.posts %}
 
         {% assign endDate = post.endDate | date: '%s' %}
-        {% assign startDay = post.date | date: '%j' %}
-        {% assign dayDelta = post.endDate | date: '%j' | minus: startDay %}
+        {% assign startYMD = post.date | date: '%b %-d, %Y' %}
+        {% assign endYMD = post.endDate | date: '%b %-d, %Y' %}
 
         {% if endDate < currentDate %}
 
@@ -54,7 +54,7 @@ cover: '/images/wedding-robots-banner.jpg'
             {% else %}
             <div class="event-sqaure" style="background-image:url(/images/wedding-robots-banner.jpg);">
             {% endif %}
-              <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}{%if dayDelta > 0 %} - {{ post.endDate | date: "%b %-d, %Y" }}{% endif %}</span></h2>
+              <h2>{{ post.title }} <span>{{ startYMD }}{%if startYMD != endYMD %} - {{ endYMD }}{% endif %}</span></h2>
               <div class='event-square-overlay'></div>
             </div>
 
