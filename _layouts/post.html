@@ -11,8 +11,10 @@ layout: default
     {% if organiser.photo %}
         <h3 class="post-organisers-name">By {{organiser.name}}</h3>
     {% endif %}
-    <h2 class="post-date"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%A %B %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</h2>
-    <h3 class="post-time">From {{ page.start_time}} to {{page.end_time }}</h3>
+    {% assign startDay = page.date | date: '%j' %}
+    {% assign dayDelta = page.endDate | date: '%j' | minus: startDay %}
+    <h2 class="post-date"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%A %B %-d, %Y" }}</time>{% if dayDelta > 0 %} - {{page.endDate | date: "%A %B %-d, %Y" }}{% endif %}{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</h2>
+    {% if page.start_time and page.end_time %}<h3 class="post-time">From {{ page.start_time}} to {{page.end_time }}</h3>{% endif %}
     {% if page.location %}
     <p>
     <div itemscope itemtype="http://schema.org/Organization">

@@ -7,7 +7,7 @@ cover: '/images/wedding-robots-banner.jpg'
 
 <div class="home">
 
-    {% capture currentDate %}{{'now' | date: '%s' }}{% endcapture %}
+    {% assign currentDate = 'now' | date: '%s' %}
 
     <div class="clearfix">
 
@@ -15,9 +15,11 @@ cover: '/images/wedding-robots-banner.jpg'
 
       {% for post in site.posts reversed %}
 
-        {% capture blogDate %}{{post.date | date: '%s' }}{% endcapture %}
+        {% assign endDate = post.endDate | date: '%s' %}
+        {% assign startDay = post.date | date: '%j' %}
+        {% assign dayDelta = post.endDate | date: '%j' | minus: startDay %}
 
-        {% if blogDate >= currentDate %}
+        {% if endDate >= currentDate %}
 
           <a href="{{ post.url | prepend: site.baseurl }}">
             {% if post.cover %}
@@ -25,7 +27,7 @@ cover: '/images/wedding-robots-banner.jpg'
             {% else %}
             <div class="event-sqaure" style="background-image:url(/images/wedding-robots-banner.jpg);">
             {% endif %}
-              <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
+              <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}{%if dayDelta > 0 %} - {{ post.endDate | date: "%b %-d, %Y" }}{% endif %}</span></h2>
                <div class='event-square-overlay'></div>
             </div>
 
@@ -40,9 +42,11 @@ cover: '/images/wedding-robots-banner.jpg'
       <h1 class="event-time-heading">Past {% if site.event_label %} {{site.event_label}} {% else %} Events {% endif %} </h1>
       {% for post in site.posts %}
 
-        {% capture blogDate %}{{post.date | date: '%s' }}{% endcapture %}
+        {% assign endDate = post.endDate | date: '%s' %}
+        {% assign startDay = post.date | date: '%j' %}
+        {% assign dayDelta = post.endDate | date: '%j' | minus: startDay %}
 
-        {% if blogDate < currentDate %}
+        {% if endDate < currentDate %}
 
           <a href="{{ post.url | prepend: site.baseurl }}">
             {% if post.cover %}
@@ -50,7 +54,7 @@ cover: '/images/wedding-robots-banner.jpg'
             {% else %}
             <div class="event-sqaure" style="background-image:url(/images/wedding-robots-banner.jpg);">
             {% endif %}
-              <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
+              <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}{%if dayDelta > 0 %} - {{ post.endDate | date: "%b %-d, %Y" }}{% endif %}</span></h2>
               <div class='event-square-overlay'></div>
             </div>
 

@@ -11,6 +11,7 @@ attribution:
   name_url: "https://commons.wikimedia.org/wiki/File:Jasper_van_der_Laanen_(attr)_Landscape_with_Pyramus_and_Thisbe.jpg"
   license_url: "http://fairuse.stanford.edu/overview/public-domain/welcome"
 date:   "2016-03-11 17:00 -0400"
+endDate:   "2016-03-11 19:00 -0400"
 creation: "2016-03-11"
 start_time: "5:00 PM"
 end_time: "7:00 PM"
