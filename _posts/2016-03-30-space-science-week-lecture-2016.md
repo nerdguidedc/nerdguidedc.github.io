@@ -22,7 +22,7 @@ location:
   city: Washington
   state: DC
   zip: 20418
-tags: [ 'National Academy of Sciences' ]
+tags: [ 'National Academy of Sciences', 'Astronomy and Aeronautics' ]
 excerpt: >
   Discover Pluto along with New Horizons' Principal Investigator
   Alan Stern during a free public lecture to celebrate Space

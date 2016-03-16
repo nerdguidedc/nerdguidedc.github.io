@@ -22,7 +22,7 @@ location:
   city: Chantilly
   state: VA
   zip: 20151
-tags: [ 'Air and Space Museum', 'Udvar-Hazy Center' ]
+tags: [ 'Air and Space Museum', 'Astronomy and Aeronautics', 'Udvar-Hazy Center' ]
 excerpt: >
  But how exoplanets form, and why are they so different from those
  in our own solar system? Which ingredients are available to build 

@@ -23,7 +23,7 @@ location:
   city: Washington
   state: DC
   zip: 20010
-tags: [ 'Astronomy on Tap', '21+ Events', 'Lectures' ]
+tags: [ 'Astronomy on Tap', 'Astronomy and Aeronautics', '21+ Events', 'Lectures' ]
 excerpt: >
   Astronomy on Tap is a gathering for accessible, engaging science
   presentations on topics ranging from planets to black holes to

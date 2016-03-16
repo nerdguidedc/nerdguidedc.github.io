@@ -22,7 +22,7 @@ location:
   city: "Washington"
   state: DC
   zip: 20560
-tags: [ 'Natural History Museum' ]
+tags: [ 'Natural History Museum', 'Biology' ]
 excerpt: >
   Join us at the National Museum of Natural History as we
   celebrate girls and women in science, part of a "special edition"

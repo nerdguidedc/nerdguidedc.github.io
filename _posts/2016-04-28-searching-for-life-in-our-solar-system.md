@@ -22,7 +22,7 @@ location:
   city: Washington
   state: DC
   zip: 20560
-tags: [ 'Air and Space Museum', 'Lectures' ]
+tags: [ 'Air and Space Museum', 'Astronomy and Aeronautics', 'Lectures' ]
 excerpt: >
   Where might we find life in the solar system? Chris McKay,
   planetary scientist at NASA Ames Research Center,

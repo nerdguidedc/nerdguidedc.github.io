@@ -23,7 +23,7 @@ location:
   city: Washington
   state: DC
   zip: 20540
-tags: [ 'Library of Congress' ]
+tags: [ 'Library of Congress', 'Biology' ]
 excerpt: >
   Four pioneers of science, who have played major roles in developing 
   key models for the origins of life, will be interviewed in a program
