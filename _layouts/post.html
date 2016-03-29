@@ -42,6 +42,7 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+  {% if page.attribution.name %}
   <small>
   Image attribution:
   <a href="{{ page.attribution.name_url }}">"{{ page.attribution.name }}"</a>
@@ -56,5 +57,5 @@ layout: default
   <a href="{{ page.attribution.license_url }}">{{ page.attribution.license }}</a>
   {% endif %}
   </small>
-
+  {% endif %}
 </article>
