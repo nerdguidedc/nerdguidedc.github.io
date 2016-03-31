@@ -20,7 +20,7 @@ location:
   city: Washington
   state: DC
   zip: 20004
-tags: [ ]
+tags: [ 'Festivals' ]
 excerpt: >
   Smithsonian magazine's *The Future Is Here Festival*
   brings together the world’s most renowned experts in science, technology,
