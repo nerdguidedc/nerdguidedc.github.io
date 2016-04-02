@@ -22,7 +22,7 @@ location:
   city: Washington
   state: DC
   zip: 20001
-tags: [ 'WAMU', 'Sixth & I' ]
+tags: [ 'WAMU', 'Sixth & I', 'Radio' ]
 excerpt: >
   In "Becoming Wise: An Inquiry into the Mystery and Art of Living",
   Peabody Award-winning broadcaster and National Humanities Medalist
