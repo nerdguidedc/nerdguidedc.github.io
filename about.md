@@ -18,4 +18,8 @@ The site is undergoing a major redesign in March 2016.
 The Nerd Guide is built using the
 [Jekyll](//jekyllrb.com/) site generator, the
 [Evento](//github.com/boyney123/evento) theme, and the
-[FormHack](http://formhack.io) form theme.
+[FormHack](http://formhack.io) form theme. Website
+hosting by [GitHub Pages](https://pages.github.com),
+Content Delivery Network by [CloudFlare](https://www.cloudflare.com),
+form submission by [SimpleForm](https://getsimpleform.com/),
+and email subscription by [MailChimp](http://mailchimp.com/).
