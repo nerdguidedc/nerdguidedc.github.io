@@ -20,7 +20,7 @@ location:
   city: "Silver Spring"
   state: MD
   zip: 20910
-tags: [ 'Films', 'AFI Silver Theatre' ]
+tags: [ 'Films', 'AFI Silver Theatre', 'Festivals' ]
 excerpt: >
   AFI Silver is proud to host the 12th annual New African Film 
   Festival, co-presented by AFI, Africa World Now Project and 
