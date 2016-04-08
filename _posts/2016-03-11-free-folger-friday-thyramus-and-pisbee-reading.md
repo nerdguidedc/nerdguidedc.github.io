@@ -26,13 +26,13 @@ tags: [ 'Folger Shakespeare Library', 'Arts', 'Lectures' ]
 excerpt: >
   Join the Folger for a free reading of a hilarious new play,
   The Tragical Comedy of Thyramus and Pisbee by Eric Hissom
-  (Oberon in A Midsummer Night’s Dream).
+  (Oberon in A Midsummer Night's Dream).
 
 ---
 
 Join the Folger for a free reading of a hilarious new play,
 *The Tragical Comedy of Thyramus and Pisbee* by Eric Hissom
-(Oberon in *A Midsummer Night’s Dream*). Directed by Gus Heagerty
+(Oberon in *A Midsummer Night's Dream*). Directed by Gus Heagerty
 and featuring the author along with actors Adam Wesley Brown
 (Lysander in *A Midsummer Night's Dream*), Tom Story, and Rachel Zampelli. 
 
