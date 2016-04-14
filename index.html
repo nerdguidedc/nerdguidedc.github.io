@@ -14,9 +14,38 @@ and/or mathematics, we've got you covered.
 
     <div class="clearfix">
 
+	   <h1 class="event-time-heading fix-top">Recurring {% if site.event_label %} {{site.event_label}} {% else %} Events {% endif %} </h1>
+
+      {% for post in site.posts reversed %}
+
+        {% if post.repeat_every %}
+        {% else %}
+            {% continue %}
+        {% endif %}
+
+        <a href="{{ post.url | prepend: site.baseurl }}">
+		  {% if post.cover %}
+		  <div class="event-sqaure" style="background-image:url({{post.cover | replace_first: '/images', '/images/thumbnails'}});">
+		  {% else %}
+		  <div class="event-sqaure" style="background-image:url(/images/wedding-robots-banner.jpg);">
+		  {% endif %}
+		    <h2>{{ post.title }} <span>{{ post.repeat_every }}</span></h2>
+		    <div class='event-square-overlay'></div>
+		  </div>
+        </a>
+
+      {% endfor %}
+    </div><p>
+
+    <div class="clearfix">
+
       <h1 class="event-time-heading fix-top">Upcoming {% if site.event_label %} {{site.event_label}} {% else %} Events {% endif %} </h1>
 
       {% for post in site.posts reversed %}
+
+        {% if post.repeat_every %}
+            {% continue %}
+        {% endif %}
 
         {% assign endDate = post.endDate | date: '%s' %}
         {% assign startYMD = post.date | date: '%b %-d, %Y' %}
@@ -33,17 +62,21 @@ and/or mathematics, we've got you covered.
               <h2>{{ post.title }} <span>{{ startYMD }}{%if startYMD != endYMD %} - {{ endYMD }}{% endif %}</span></h2>
                <div class='event-square-overlay'></div>
             </div>
-
           </a>
 
         {% endif %}
 
       {% endfor %}
     </div>
+
     <div class="clearfix">
 
       <h1 class="event-time-heading">Past {% if site.event_label %} {{site.event_label}} {% else %} Events {% endif %} </h1>
       {% for post in site.posts %}
+
+        {% if post.repeat_every %}
+	        {% continue %}
+        {% endif %}
 
         {% assign endDate = post.endDate | date: '%s' %}
         {% assign startYMD = post.date | date: '%b %-d, %Y' %}
@@ -60,7 +93,6 @@ and/or mathematics, we've got you covered.
               <h2>{{ post.title }} <span>{{ startYMD }}{%if startYMD != endYMD %} - {{ endYMD }}{% endif %}</span></h2>
               <div class='event-square-overlay'></div>
             </div>
-
           </a>
 
         {% endif %}
