@@ -20,7 +20,7 @@ location:
   city: Washington
   state: DC
   zip: 20001
-tags: [ 'Nerd Nite DC', 'Astronomy-and-Aeronautics', '21+ Events', 'Lectures' ]
+tags: [ 'Nerd Nite DC', 'Astronomy and Aeronautics', '21+ Events', 'Lectures' ]
 excerpt: >
   April 12th is the anniversary of Yuri Gargarin’s ascent into space. Yuri’s
   Night is a World Space Party that celebrates the dream and the

@@ -22,7 +22,7 @@ location:
   city: Washington
   state: DC
   zip: 20006
-tags: [ 'Renwick Gallery', '21+ Events', 'After Hours' ]
+tags: [ 'Renwick Gallery', '21+ Events', 'Smithsonian After Hours' ]
 excerpt: >
   Your last chance to party at the best exhibition in the history
   of DC before it's gone forever!
