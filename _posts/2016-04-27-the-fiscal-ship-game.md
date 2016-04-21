@@ -22,7 +22,7 @@ location:
   city: Washington
   state: DC
   zip: 20036
-tags: [ 'Brookings Institution', 'Games' ]
+tags: [ 'Brookings Institution', 'Wilson Center', 'Games' ]
 excerpt: >
   Can you fix the debt? Play 'The Fiscal Ship' at Brookings on April 27.
   The game was developed through a partnership between the Woodrow Wilson

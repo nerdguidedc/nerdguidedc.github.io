@@ -22,7 +22,7 @@ location:
   city: Washington
   state: DC
   zip: 20003
-tags: [ 'Museum of Science Fiction' ]
+tags: [ 'Museum of Science Fiction', 'Games' ]
 excerpt: >
   Calling all board game fans! The Museum of Science Fiction is partnering
   with Labyrinth Game Shop to enjoy a night of sci-fi themed board games
