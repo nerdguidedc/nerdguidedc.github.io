@@ -10,18 +10,18 @@ attribution:
   license: "CC BY 2.0"
   name_url: "https://commons.wikimedia.org/wiki/File:Nasa_decompression_chamber.jpg"
   license_url: "https://creativecommons.org/licenses/by/2.0/deed.en"
-date:   "2016-04-28 18:30"
+date:   "2016-04-28 18:00"
 endDate:   "2016-04-28 19:30"
 creation: "2016-04-26"
-start_time: "6:30 PM"
+start_time: "6:00 PM"
 end_time: "7:30 PM"
 location:
-  name: "Carnegie Institute for Science"
+  name: "Carnegie Institute Broad Branch Road Campus"
   address:
-    - "1530 P Street NW"
+    - "5251 Broad Branch Rd NW"
   city: Washington
   state: DC
-  zip: 20005
+  zip: 20015
 tags: [ 'Carnegie Institute', 'Chemistry', 'Lectures' ]
 excerpt: >
   A major focus of the field of chemistry is predicting how various atoms form
@@ -52,6 +52,17 @@ planets such as Jupiter and Saturn.
 Staff Scientist, Geophysical Laboratory  
 Carnegie Institution for Science  
 
-The lecture is free and open to the public but registration is required. You can
+The lecture is free and open to the public but registration is strongly
+recommended. You can
 [register online](https://carnegiescience.edu/events/lectures/dr-alexander-goncharov-high-pressure-alchemy)
-or call the registration line at 202-328-6988.
+or call the registration line at 202-478-8900.
+
+The Broad Branch Road Neighborhood Lectures provide an opportunity to get up
+close and personal with Carnegie scientists at our campus in northwest
+Washington DC. These lectures begin at 6:30 p.m. and last for approximately one
+hour, followed by a brief question and answer period. Doors open to the public
+at 6:00 p.m. with light refreshments. The campus is located at the intersection
+of Broad Branch Road and 32nd Street in northwest Washington, DC. Parking is
+available on campus and accessible via Jocelyn and 32nd Streets. Street parking
+is permissible. The campus is a short, three-block walk from Connecticut Avenue
+and two blocks south of Military Road.
