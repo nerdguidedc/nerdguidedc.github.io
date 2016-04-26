@@ -22,7 +22,7 @@ location:
   city: Washington
   state: DC
   zip: 20005
-tags: [ 'Carnegie Institute', 'Chemistry', 'Capital Science Evening Lectures', 'Lectures' ]
+tags: [ 'Carnegie Institute', 'Chemistry', 'Lectures' ]
 excerpt: >
   A major focus of the field of chemistry is predicting how various atoms form
   bonds, hence molecules, and how such bonding controls the structure and
@@ -31,29 +31,6 @@ excerpt: >
   in some cases exceeding one million atmospheres.
 
 ---
-
-Since 1991, the Carnegie Institution has hosted extraordinary
-researchers from a wide range of scientific disciplines as part
-of the Capital Science Evenings lecture series. The lectures
-provide a unique opportunity to connect with some of the most
-gifted investigators in science and hear the stories behind
-their discoveries.
-
-All lectures are free and open to the public, and begin at 6:30 PM
-at the Carnegie Institute for Science.
-These hour-long lectures, followed by a brief
-question and answer period, go beyond the media accounts for a
-firsthand look at the “ah-ha” moments, the setbacks, and the triumphs
-that drive brilliant minds and fundamentally change our understanding
-of the world around us.
-
-Registration is required. You can
-[register online](https://carnegiescience.edu/events/lectures/dr-alexander-goncharov-high-pressure-alchemy)
-or call the registration line at 202-328-6988.
-
-**Dr. Alexander Goncharov**  
-Staff Scientist, Geophysical Laboratory  
-Carnegie Institution for Science  
 
 A major focus of the field of chemistry is predicting how various atoms form
 bonds, hence molecules, and how such bonding controls the structure and
@@ -70,3 +47,11 @@ of potentially unparalleled physical and chemical properties. Many of these
 newly discovered extreme materials are made of the most abundant elements
 in the universe and thus are likely to be present in the interiors of giant
 planets such as Jupiter and Saturn.
+
+**Dr. Alexander Goncharov**  
+Staff Scientist, Geophysical Laboratory  
+Carnegie Institution for Science  
+
+The lecture is free and open to the public but registration is required. You can
+[register online](https://carnegiescience.edu/events/lectures/dr-alexander-goncharov-high-pressure-alchemy)
+or call the registration line at 202-328-6988.
