@@ -2,7 +2,7 @@
 layout: post
 
 #event information
-title:  "Hear Now!"
+title:  "Audio in the Streets"
 cover: "/images/geograph-1534880-by-john-salter.jpg"
 attribution:
   name: "Kilfinane village centre"
@@ -22,7 +22,7 @@ location:
   city: Washington
   state: DC
   zip: 20006
-tags: [ 'Goethe-Institut', 'Arts' ]
+tags: [ 'Goethe-Institut', 'Arts', 'Hear Now!' ]
 excerpt: >
   Jocelyn Frank presents highlights from Ireland's HearSay,
   the new international, community-integrated, audio arts festival.
