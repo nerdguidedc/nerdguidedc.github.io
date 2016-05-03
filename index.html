@@ -10,7 +10,8 @@ and/or mathematics, we've got you covered.
 <p>
 <div class="home">
 
-    {% assign currentDate = 'now' | date: '%s' %}
+    {% assign currentDate = 'now' | date: '%s' | plus: 0 %}
+    {% assign thirtyDaysAgo = 'now' | date: '%s' | minus : 2592000 %}
 
     <div class="clearfix">
 
@@ -47,7 +48,7 @@ and/or mathematics, we've got you covered.
             {% continue %}
         {% endif %}
 
-        {% assign endDate = post.endDate | date: '%s' %}
+        {% assign endDate = post.endDate | date: '%s' | plus: 0 %}
         {% assign startYMD = post.date | date: '%b %-d, %Y' %}
         {% assign endYMD = post.endDate | date: '%b %-d, %Y' %}
 
@@ -78,9 +79,13 @@ and/or mathematics, we've got you covered.
 	        {% continue %}
         {% endif %}
 
-        {% assign endDate = post.endDate | date: '%s' %}
+        {% assign endDate = post.endDate | date: '%s' | plus: 0 %}
         {% assign startYMD = post.date | date: '%b %-d, %Y' %}
         {% assign endYMD = post.endDate | date: '%b %-d, %Y' %}
+
+        {% if endDate < thirtyDaysAgo %}
+          {% continue %}
+        {% endif %}
 
         {% if endDate < currentDate %}
 
@@ -99,5 +104,7 @@ and/or mathematics, we've got you covered.
 
       {% endfor %}
     </div>
+
+    <h1 class="event-time-heading">Older events - <a href="/archive">Events Archive</a></h1>
 
 </div>
