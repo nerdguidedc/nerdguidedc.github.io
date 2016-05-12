@@ -22,9 +22,9 @@ permalink: /tags/
 {% for post in pages_list %}
 <a href="{{ post.url | prepend: site.baseurl }}">
 {% if post.cover %}
-<div class="event-sqaure" style="background-image:url({{post.cover | replace_first: '/images', '/images/thumbnails' }});">
+<div class="event-square" style="background-image:url({{post.cover | replace_first: '/images', '/images/thumbnails' }});">
 {% else %}
-<div class="event-sqaure" style="background-image:url(/images/wedding-robots-banner.jpg);">
+<div class="event-square" style="background-image:url(/images/wedding-robots-banner.jpg);">
 {% endif %}
 <h2>{{ post.title }} <span>{{ post.date | date: "%b %-d, %Y" }}</span></h2>
 <div class='event-square-overlay'></div>

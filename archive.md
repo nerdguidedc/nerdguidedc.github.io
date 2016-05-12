@@ -21,9 +21,9 @@ permalink: /archive/
 
           <a href="{{ post.url | prepend: site.baseurl }}">
             {% if post.cover %}
-            <div class="event-sqaure" style="background-image:url({{post.cover | replace_first: '/images', '/images/thumbnails' }});">
+            <div class="event-square" style="background-image:url({{post.cover | replace_first: '/images', '/images/thumbnails' }});">
             {% else %}
-            <div class="event-sqaure" style="background-image:url(/images/wedding-robots-banner.jpg);">
+            <div class="event-square" style="background-image:url(/images/wedding-robots-banner.jpg);">
             {% endif %}
               <h2>{{ post.title }} <span>{{ startYMD }}{%if startYMD != endYMD %} - {{ endYMD }}{% endif %}</span></h2>
                <div class='event-square-overlay'></div>
