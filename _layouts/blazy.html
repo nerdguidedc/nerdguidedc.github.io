@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  {% include head.html %}
+  {% include ga.html %}
+  {% include blazy.html %}
+  </head>
+
+  <body>
+
+    {% include header.html %}
+
+{% if page.cover %}
+  <div class="blog-cover" style="background-image:url({{page.cover}});">
+{% else %}
+  <div class="blog-cover" style="background-image:url(/images/wedding-robots-banner.jpg);">
+{% endif %}
+  </div>
+
+    <div class="page-content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </div>
+
+  </body>
+
+</html>

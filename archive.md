@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blazy
 cover: '/images/wedding-robots-banner.jpg'
 permalink: /archive/
 ---

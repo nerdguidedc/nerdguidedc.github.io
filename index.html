@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blazy
 cover: '/images/wedding-robots-banner.jpg'
 ---
 
@@ -26,7 +26,7 @@ and/or mathematics, we've got you covered.
 
         <a href="{{ post.url | prepend: site.baseurl }}">
 		  {% if post.cover %}
-		  <div class="event-square" style="background-image:url({{post.cover | replace_first: '/images', '/images/thumbnails'}});">
+		  <div class="event-square b-lazy" data-src="{{post.cover | replace_first: '/images', '/images/thumbnails'}}">
 		  {% else %}
 		  <div class="event-square" style="background-image:url(/images/wedding-robots-banner.jpg);">
 		  {% endif %}
@@ -56,7 +56,7 @@ and/or mathematics, we've got you covered.
 
           <a href="{{ post.url | prepend: site.baseurl }}">
             {% if post.cover %}
-            <div class="event-square" style="background-image:url({{post.cover | replace_first: '/images', '/images/thumbnails' }});">
+            <div class="event-square b-lazy" data-src="{{post.cover | replace_first: '/images', '/images/thumbnails'}}">
             {% else %}
             <div class="event-square" style="background-image:url(/images/wedding-robots-banner.jpg);">
             {% endif %}
@@ -91,7 +91,7 @@ and/or mathematics, we've got you covered.
 
           <a href="{{ post.url | prepend: site.baseurl }}">
             {% if post.cover %}
-            <div class="event-square" style="background-image:url({{post.cover | replace_first: '/images', '/images/thumbnails'}});">
+            <div class="event-square b-lazy" data-src="{{post.cover | replace_first: '/images', '/images/thumbnails'}}">
             {% else %}
             <div class="event-square" style="background-image:url(/images/wedding-robots-banner.jpg);">
             {% endif %}
