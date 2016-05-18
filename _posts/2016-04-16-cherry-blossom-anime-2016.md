@@ -23,7 +23,7 @@ location:
   city: Washington
   state: DC
   zip: 20001
-tags: [ 'Films', 'Festivals', 'Freer and Sackler Galleries', 'American Art Museum' ]
+tags: [ 'Films', 'Festivals', 'Freer and Sackler Galleries', 'American Art Museum', 'Comics and Anime' ]
 excerpt: >
   The Freer and Sackler Galleries along with Otakorp will celebrate the 2016
   National Cherry Blossom Festival with a day full of Japanese art,

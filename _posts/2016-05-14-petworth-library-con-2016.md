@@ -22,9 +22,9 @@ location:
   city: Washington
   state: DC
   zip: 20011
-tags: [ 'Family Events' ]
+tags: [ 'Family Events', 'Comics and Anime' ]
 excerpt: >
-  As a prelude to Summer Reading, join us for Petworth's annual 
+  As a prelude to Summer Reading, join us for Petworth's annual
   Library-Con on May 14! This year's theme emphasizes going for the gold by
   reading. This event is a multi-generational program that will
   provide information and expose the world of anime/manga,
@@ -45,7 +45,7 @@ based activities such as:
 * author talks
 * a special story time with fairy tale characters
 * crafts
-* a movie based on anime/manga 
+* a movie based on anime/manga
 * and much more!
 
 For more information please contact the library at 202-243-1187 or petworthlibrary@dc.gov.
