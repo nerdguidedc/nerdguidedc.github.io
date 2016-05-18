@@ -17,24 +17,24 @@ and/or mathematics, we've got you covered.
 
 	   <h1 class="event-time-heading fix-top">Recurring {% if site.event_label %} {{site.event_label}} {% else %} Events {% endif %} </h1>
 
-      {% for post in site.posts reversed %}
+      {% for post in site.posts reversed %}{% capture cache %}
 
         {% if post.repeat_every %}
         {% else %}
             {% continue %}
         {% endif %}
 
+        {% endcapture %}{% assign cache = nil %}
         <a href="{{ post.url | prepend: site.baseurl }}">
-		  {% if post.cover %}
-		  <div class="event-square b-lazy" data-src="{{post.cover | replace_first: '/images', '/images/thumbnails'}}">
-		  {% else %}
-		  <div class="event-square" style="background-image:url(/images/wedding-robots-banner.jpg);">
-		  {% endif %}
-		    <h2>{{ post.title }} <span>{{ post.repeat_every }}</span></h2>
-		    <div class='event-square-overlay'></div>
-		  </div>
+		        {% if post.cover %}
+		        <div class="event-square b-lazy" data-src="{{post.cover | replace_first: '/images', '/images/thumbnails'}}">
+		        {% else %}
+		        <div class="event-square" style="background-image:url(/images/wedding-robots-banner.jpg);">
+		        {% endif %}
+		          <h2>{{ post.title }} <span>{{ post.repeat_every }}</span></h2>
+		          <div class='event-square-overlay'></div>
+		        </div>
         </a>
-
       {% endfor %}
     </div><p>
 
@@ -42,7 +42,7 @@ and/or mathematics, we've got you covered.
 
       <h1 class="event-time-heading fix-top">Upcoming {% if site.event_label %} {{site.event_label}} {% else %} Events {% endif %} </h1>
 
-      {% for post in site.posts reversed %}
+      {% for post in site.posts reversed %}{% capture cache %}
 
         {% if post.repeat_every %}
             {% continue %}
@@ -52,8 +52,9 @@ and/or mathematics, we've got you covered.
         {% assign startYMD = post.date | date: '%b %-d, %Y' %}
         {% assign endYMD = post.endDate | date: '%b %-d, %Y' %}
 
-        {% if endDate >= currentDate %}
-
+        {% if endDate < currentDate %}
+          {% continue %}
+        {% endif %}{% endcapture %}{% assign cache = nil %}
           <a href="{{ post.url | prepend: site.baseurl }}">
             {% if post.cover %}
             <div class="event-square b-lazy" data-src="{{post.cover | replace_first: '/images', '/images/thumbnails'}}">
@@ -64,16 +65,13 @@ and/or mathematics, we've got you covered.
                <div class='event-square-overlay'></div>
             </div>
           </a>
-
-        {% endif %}
-
       {% endfor %}
     </div>
 
     <div class="clearfix">
 
       <h1 class="event-time-heading">Past {% if site.event_label %} {{site.event_label}} {% else %} Events {% endif %} </h1>
-      {% for post in site.posts %}
+      {% for post in site.posts %}{% capture cache %}
 
         {% if post.repeat_every %}
 	        {% continue %}
@@ -87,8 +85,9 @@ and/or mathematics, we've got you covered.
           {% continue %}
         {% endif %}
 
-        {% if endDate < currentDate %}
-
+        {% if endDate >= currentDate %}
+          {% continue %}
+        {% endif %}{% endcapture %}{% assign cache = nil %}
           <a href="{{ post.url | prepend: site.baseurl }}">
             {% if post.cover %}
             <div class="event-square b-lazy" data-src="{{post.cover | replace_first: '/images', '/images/thumbnails'}}">
@@ -99,9 +98,6 @@ and/or mathematics, we've got you covered.
               <div class='event-square-overlay'></div>
             </div>
           </a>
-
-        {% endif %}
-
       {% endfor %}
     </div>
 

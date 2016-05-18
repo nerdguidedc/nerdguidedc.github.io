@@ -10,7 +10,7 @@ permalink: /archive/
 
 	   <h1 class="event-time-heading fix-top">Events Archive</h1>
 
-      {% for post in site.posts %}
+      {% for post in site.posts %}{% capture cache %}
 
         {% if post.repeat_every %}
             {% continue %}
@@ -19,6 +19,7 @@ permalink: /archive/
         {% assign startYMD = post.date | date: '%b %-d, %Y' %}
         {% assign endYMD = post.endDate | date: '%b %-d, %Y' %}
 
+        {% endcapture %}{% assign cache = nil %}
           <a href="{{ post.url | prepend: site.baseurl }}">
             {% if post.cover %}
             <div class="event-square" style="background-image:url({{post.cover | replace_first: '/images', '/images/thumbnails' }});">
@@ -29,7 +30,6 @@ permalink: /archive/
                <div class='event-square-overlay'></div>
             </div>
           </a>
-
       {% endfor %}
     </div>
 

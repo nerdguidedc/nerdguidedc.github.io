@@ -14,7 +14,7 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
+        {% for my_page in site.pages %}{% capture header_nextlink %}
           {% if my_page.navigation_title %}
             {% if my_page.button %}
                 <a class="page-link button button-primary" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.navigation_title }}</a>
@@ -23,7 +23,10 @@
             {% else %}
                 <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.navigation_title }}</a>
             {% endif %}
+          {% else %}
+            {% continue %}
           {% endif %}
+        {% endcapture %}{{ header_nextlink | strip }}
         {% endfor %}
       </div>
     </nav>
