@@ -1,7 +1,10 @@
 ---
-layout: blazy
+layout: default
 cover: '/images/wedding-robots-banner.jpg'
 ---
+
+{% assign image_count = 0 %}
+{% assign blazy_count = 5 %}
 
 <p>Nerd Guide DC is devoted towards science, technology, and
 intellectual activities and events in the Washington DC area.
@@ -24,13 +27,20 @@ and/or mathematics, we've got you covered.
             {% continue %}
         {% endif %}
 
-        {% endcapture %}{% assign cache = nil %}
-        <a href="{{ post.url | prepend: site.baseurl }}">
-		        {% if post.cover %}
-		        <div class="event-square b-lazy" data-src="{{post.cover | replace_first: '/images', '/images/thumbnails'}}">
-		        {% else %}
-		        <div class="event-square" style="background-image:url(/images/wedding-robots-banner.jpg);">
-		        {% endif %}
+        {% assign image_count = image_count | plus: 1 %}
+
+        {% endcapture %}{% assign cache = nil %}{% if image_count == blazy_count %}{% include blazy.html %}{% endif %}{% capture image_div %}
+        {% if post.cover %}
+        {% if image_count < blazy_count %}
+        <div class="event-square" style="background-image:url({{post.cover | replace_first: '/images', '/images/thumbnails'}});">
+        {% else %}
+        <div class="event-square b-lazy" data-src="{{post.cover | replace_first: '/images', '/images/thumbnails'}}">
+        {% endif %}
+        {% else %}
+        <div class="event-square" style="background-image:url(/images/wedding-robots-banner.jpg);">
+        {% endif %}
+        {% endcapture %}<a href="{{ post.url | prepend: site.baseurl }}">
+              {{ image_div | strip }}
 		          <h2>{{ post.title }} <span>{{ post.repeat_every }}</span></h2>
 		          <div class='event-square-overlay'></div>
 		        </div>
@@ -54,13 +64,22 @@ and/or mathematics, we've got you covered.
 
         {% if endDate < currentDate %}
           {% continue %}
-        {% endif %}{% endcapture %}{% assign cache = nil %}
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            {% if post.cover %}
-            <div class="event-square b-lazy" data-src="{{post.cover | replace_first: '/images', '/images/thumbnails'}}">
-            {% else %}
-            <div class="event-square" style="background-image:url(/images/wedding-robots-banner.jpg);">
-            {% endif %}
+        {% endif %}
+
+        {% assign image_count = image_count | plus: 1 %}
+
+        {% endcapture %}{% assign cache = nil %}{% if image_count == blazy_count %}{% include blazy.html %}{% endif %}{% capture image_div %}
+        {% if post.cover %}
+        {% if image_count < blazy_count %}
+        <div class="event-square" style="background-image:url({{post.cover | replace_first: '/images', '/images/thumbnails'}});">
+        {% else %}
+        <div class="event-square b-lazy" data-src="{{post.cover | replace_first: '/images', '/images/thumbnails'}}">
+        {% endif %}
+        {% else %}
+        <div class="event-square" style="background-image:url(/images/wedding-robots-banner.jpg);">
+        {% endif %}
+        {% endcapture %}<a href="{{ post.url | prepend: site.baseurl }}">
+              {{ image_div | strip }}
               <h2>{{ post.title }} <span>{{ startYMD }}{%if startYMD != endYMD %} - {{ endYMD }}{% endif %}</span></h2>
                <div class='event-square-overlay'></div>
             </div>
@@ -87,13 +106,22 @@ and/or mathematics, we've got you covered.
 
         {% if endDate >= currentDate %}
           {% continue %}
-        {% endif %}{% endcapture %}{% assign cache = nil %}
-          <a href="{{ post.url | prepend: site.baseurl }}">
-            {% if post.cover %}
-            <div class="event-square b-lazy" data-src="{{post.cover | replace_first: '/images', '/images/thumbnails'}}">
-            {% else %}
-            <div class="event-square" style="background-image:url(/images/wedding-robots-banner.jpg);">
-            {% endif %}
+        {% endif %}
+
+        {% assign image_count = image_count | plus: 1 %}
+
+        {% endcapture %}{% assign cache = nil %}{% if image_count == blazy_count %}{% include blazy.html %}{% endif %}{% capture image_div %}
+        {% if post.cover %}
+        {% if image_count < blazy_count %}
+        <div class="event-square" style="background-image:url({{post.cover | replace_first: '/images', '/images/thumbnails'}});">
+        {% else %}
+        <div class="event-square b-lazy" data-src="{{post.cover | replace_first: '/images', '/images/thumbnails'}}">
+        {% endif %}
+        {% else %}
+        <div class="event-square" style="background-image:url(/images/wedding-robots-banner.jpg);">
+        {% endif %}
+        {% endcapture %}<a href="{{ post.url | prepend: site.baseurl }}">
+              {{ image_div | strip }}
               <h2>{{ post.title }} <span>{{ startYMD }}{%if startYMD != endYMD %} - {{ endYMD }}{% endif %}</span></h2>
               <div class='event-square-overlay'></div>
             </div>
