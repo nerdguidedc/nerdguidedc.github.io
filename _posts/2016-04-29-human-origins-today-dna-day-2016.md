@@ -23,7 +23,7 @@ location:
   city: "Washington"
   state: DC
   zip: 20560
-tags: [ 'Natural History Museum', 'Biology', 'Lecture' ]
+tags: [ 'Natural History Museum', 'Biology', 'Lectures' ]
 excerpt: >
   The National Museum of Natural History is holding a discussion on 
   April 29 on genes and animal coloration with Dr. William J. Pavan,
