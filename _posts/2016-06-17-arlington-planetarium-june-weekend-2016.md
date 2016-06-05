@@ -20,7 +20,7 @@ location:
   city: Arlington
   state: VA
   zip: 22207
-tags: [ 'Arlington Planetarium', 'Family Events' ]
+tags: [ 'Arlington Planetarium', 'Family Events', 'Astronomy and Aeronautics' ]
 excerpt: >
   The Arlington Planetarium final Friends’ Weekend of the season will be about
   planets. We are going to have live presentations by two renowned researchers
