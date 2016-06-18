@@ -12,7 +12,8 @@ attribution:
   license_url: "https://creativecommons.org/licenses/by-sa/3.0/deed.en"
 date:   "2016-08-07 11:30"
 endDate:   "2016-08-07 12:30"
-creation: "2016-08-07"
+creation: "2016-06-17"
+skip_feed: true
 start_time: "11:30 AM"
 end_time: "12:30 PM"
 location:

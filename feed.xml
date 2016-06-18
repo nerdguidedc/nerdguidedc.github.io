@@ -13,6 +13,7 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% assign sortposts = site.posts | sort: 'creation' | reverse %}
     {% for post in sortposts limit:10 %}
+      {% if post.skip_feed %}{% continue %}{% endif %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.excerpt | xml_escape }}</description>
