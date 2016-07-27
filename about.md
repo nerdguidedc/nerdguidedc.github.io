@@ -14,7 +14,6 @@ you can follow us on [twitter](//twitter.com/drmajormccheese),
 subscribe to our [rss feed](/feed.xml), or
 sign up for our [mailing list](http://eepurl.com/bRLrNP).
 
-The site is undergoing a major redesign in March 2016.
 The Nerd Guide is built using the
 [Jekyll](//jekyllrb.com/) site generator, the
 [Evento](//github.com/boyney123/evento) theme, and the
@@ -22,4 +21,5 @@ The Nerd Guide is built using the
 hosting by [GitHub Pages](https://pages.github.com),
 Content Delivery Network by [CloudFlare](https://www.cloudflare.com),
 form submission by [SimpleForm](https://getsimpleform.com/),
-and email subscription by [MailChimp](http://mailchimp.com/).
+email subscription by [MailChimp](http://mailchimp.com/),
+and email service management by [Mailgun](https://www.mailgun.com/).
