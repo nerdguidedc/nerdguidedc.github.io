@@ -2,6 +2,7 @@
 layout: blazy
 cover: '/images/wedding-robots-banner.jpg'
 permalink: /archive/
+regenerate: true
 ---
 
 <div class="home">
