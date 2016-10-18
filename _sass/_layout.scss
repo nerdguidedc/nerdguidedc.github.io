@@ -249,9 +249,6 @@
       width: 70%;
     }
 
-    @include media-query($on-palm){
-      width: 50%;
-    }
 }
 
 .post-content {
