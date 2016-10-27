@@ -31,19 +31,21 @@ excerpt: >
 ---
 
 The National Museum of Natural History invites you to attend a special evening
-with Deputy Executive Director for Communications at the National Academy of
-Sciences, Ann Merchant.
-
-Merchant is responsible for a program called the Science & Entertainment
-Exchange, which connects the entertainment and science communities. If you’ve
-seen major films such as Captain America, Divergent, Frozen, and Battleship – to
-name a few, you’ve seen the results of Merchant’s work.
+with Ann Merchant, Deputy Executive Director for Communications at the National
+Academies. Merchant is responsible for The Science & Entertainment Exchange, a
+program that connects the entertainment and science communities. If you’ve seen
+major films such as Captain America, Divergent, Frozen, and Battleship (to name
+a few), you’ve seen the results of Merchant’s work.
 
 In conversation with Kirk Johnson, Sant Director of the National Museum of
 Natural History, Merchant will give a first-hand look at how The Exchange is
-working to bring more – and better – science to film and television. And, if
-these major films are any proof, audiences are hungry for a good dose of
+working to bring more—and better—science to film and television. And, if these
+major films are any proof, audiences are hungry for a good dose of
 (entertaining) science!
+
+This program is part of the An Evening With... signature series featuring
+cutting-edge thought leaders in conversation with paleontologist and Sant
+Director of the National Museum of Natural History, Kirk Johnson.
 
 The event is free and open to the public but [advance registration is
 required](http://go.si.edu/site/Calendar?view=Detail&id=101365). Seating
