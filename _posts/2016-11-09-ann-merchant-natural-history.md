@@ -4,12 +4,6 @@ layout: post
 #event information
 title:  "An Evening with Ann Merchant"
 cover: "/images/161021_after-hours-facebook_merchant_A.jpg"
-attribution:
-  name: "Scene from 20 Million Miles to Earth"
-  author: "Columbia Pictures"
-  license: "the public domain"
-  name_url: "https://commons.wikimedia.org/wiki/File:20_million_miles_to_earth_(1957)_Ymir.png"
-  license_url: "http://fairuse.stanford.edu/overview/public-domain/welcome"
 date:   "2016-11-09 18:30"
 endDate:   "2016-11-09 20:45"
 creation: "2016-07-27"
