@@ -3,7 +3,7 @@ layout: post
 
 #event information
 title:  "An Evening with Ann Merchant"
-cover: "/images/20_million_miles_to_earth.jpg"
+cover: "/images/161021_after-hours-facebook_merchant_A.jpg"
 attribution:
   name: "Scene from 20 Million Miles to Earth"
   author: "Columbia Pictures"
@@ -48,5 +48,5 @@ cutting-edge thought leaders in conversation with paleontologist and Sant
 Director of the National Museum of Natural History, Kirk Johnson.
 
 The event is free and open to the public but [advance registration is
-required](http://go.si.edu/site/Calendar?view=Detail&id=101365). Seating
+required](http://go.si.edu/site/Calendar?id=101365&view=Detail&s_src=nerdguide_web_cal_er). Seating
 is limited.
