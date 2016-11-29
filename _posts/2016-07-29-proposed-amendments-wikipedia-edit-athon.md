@@ -23,7 +23,7 @@ location:
   city: Washington
   state: DC
   zip: 20408
-tags: [ 'National Archives', Library of Congress' ]
+tags: [ 'National Archives', 'Library of Congress' ]
 excerpt: >
   Join the National Archives and the Law Library of Congress for the first
   in a series of a workshop and an edit-a-thon focused on improving
