@@ -23,7 +23,7 @@ location:
   city: Washington
   state: DC
   zip: 20008
-tags: [ 'Philosophical Society of Washington', 'Lectures', 'Biology']
+tags: [ 'Philosophical Society of Washington', 'Lectures', 'Astronomy and Aeronautics']
 excerpt: >
   On Nov 4, the Philosophical Society hosts Jaiwon Shin for a confluence of
   seemingly unrelated technologies developed outside the aerospace industry has
