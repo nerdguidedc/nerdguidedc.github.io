@@ -22,7 +22,7 @@ location:
   city: "Washington"
   state: DC
   zip: 20560
-tags: [ 'Natural History Museum' ]
+tags: [ 'Natural History Museum', 'An Evening With...' ]
 excerpt: >
   Join us on December 6 as Kirk Johnson, paleontologist, Museum Director, and
   the moderator of An Evening With… series, takes us behind the scenes and

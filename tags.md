@@ -3,6 +3,7 @@ layout: page
 navigation_title: Tags
 title: Article Tags
 permalink: /tags/
+regenerate: true
 ---
 
 {% assign tags_list = site.tags | sort %}
