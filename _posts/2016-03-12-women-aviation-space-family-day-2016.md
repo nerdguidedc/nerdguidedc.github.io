@@ -18,10 +18,10 @@ end_time: "3 pm"
 location:
   name: "Udvar-Hazy Center"
   address:
-    - "10th St and Constitution Ave"
-  city: "Washington"
-  state: DC
-  zip: 20560
+    - "14390 Air and Space Museum Pkwy"
+  city: "Chantilly"
+  state: VA
+  zip: 20151
 tags: [ 'Air and Space Museum', 'Astronomy and Aeronautics', 'Udvar-Hazy Center', 'Family Events' ]
 excerpt: >
   Join us for a family day that celebrates the accomplishments of women
@@ -32,7 +32,7 @@ excerpt: >
 
 ---
 
-The Udvar-Hazy Center is hosting a 
+The Udvar-Hazy Center is hosting a
 [family day](https://airandspace.si.edu/events/heritage-days/womens-history/) that celebrates the
 accomplishments of women in aviation and space exploration. From the
 days of the earliest pilots to today's space program, women have been
@@ -92,20 +92,20 @@ In the Boeing Aviation Hangar.
 **Portable Planetarium**
 In the Boeing Aviation Hangar, West Gallery.
 10:30 a.m., 12:00 p.m., 1:00 p.m., and 2:00 p.m.
- 
+
 ### All Day Activities and Presentations
 
 **Hands-On Coding Lab**
 Learn the basics of coding with the Museum’s Aerospace
 Educator-in-Residence Barbara Gruber and author Laurie Wallmark
-using self-paced tutorials with Star Wars, Frozen, and Minecraft themes. 
+using self-paced tutorials with Star Wars, Frozen, and Minecraft themes.
 In the Claude Moore Education Center
 
 **Ruth Law: Pioneer Aviator Archives Presentation**
 View material from the Museum’s Archives and learn about Ruth Law,
 the third American woman to earn her pilot’s license,
 the first female pilot to loop the loop, and the first American
-woman authorized to wear a military uniform. 
+woman authorized to wear a military uniform.
 In the Boeing Aviation Hangar
 
 **Paper Airplane Design Challenge**

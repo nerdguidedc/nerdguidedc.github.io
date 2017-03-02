@@ -12,10 +12,10 @@ end_time: "5:00 PM"
 location:
   name: "Udvar-Hazy Center"
   address:
-    - "10th St and Constitution Ave"
-  city: "Washington"
-  state: DC
-  zip: 20560
+    - "14390 Air and Space Museum Pkwy"
+  city: "Chantilly"
+  state: VA
+  zip: 20151
 tags: [ 'Air and Space Museum', 'Udvar-Hazy Center', 'Family Events' ]
 excerpt: >
   On October 22 explore the spooky side of air and space at Air & Scare, the
