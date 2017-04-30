@@ -27,7 +27,7 @@ excerpt: >
   Drunk Education — the event formerly known as Drunk TED Talks and described as
   one of New York's ten best alt-comedy shows by Paste Magazine and as "a real
   thing" by NPR's Morning Edition — comes to our nation's capital to drop drunk
-  knowledge.
+  knowledge. May 24 at the Black Cat.
 
 ---
 

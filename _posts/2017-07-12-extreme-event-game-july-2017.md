@@ -24,9 +24,10 @@ location:
   zip: 20418
 tags: [ 'Koshland Science Museum', 'National Academy of Sciences' ]
 excerpt: >
-  Extreme Event is an in-person role-playing game about disaster resilience that
-  is full of twists, turns, and challenging surprises. Work together with other
-  players to prioritize resources, solve challenges, and balance trade-offs.
+  On July 12, Extreme Event is an in-person role-playing game about disaster
+  resilience that is full of twists, turns, and challenging surprises. Work
+  together with other players to prioritize resources, solve challenges, and
+  balance trade-offs.
 
 ---
 
